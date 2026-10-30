@@ -1,2 +1,2 @@
 # FirstRepoHarsha
-CIS 1001 - Activity 4 First Public Github Repository
+JobForYou is a recommendation system that uses AI to suggest job opportunities suiting students personal preferences. This application is intended for job hunting college students. Students no longer need to actively search for opportunities, instead they can focus on their academics and applications. Students can upload their resume, LinkedIn profile, and personal preferences into the application, and AI models will search for suitable job. This system saves time spent job hunting and allows students to focus on other work. 
